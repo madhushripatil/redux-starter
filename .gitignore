@@ -1,0 +1,12 @@
+# node
+node_modules
+
+# generated files
+dist
+
+# lockfiles (you can remove these if you want them).
+yarn.lock
+
+# IDEs and editors
+.vscode
+.idea
